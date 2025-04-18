@@ -1,4 +1,4 @@
-# Tworzenie API we Flasku
+# API FLASK
 
 - app.py — program uruchamiający API we flasku
 - requirements.txt - wymagane oprogramowanie
